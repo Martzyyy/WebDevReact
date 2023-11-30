@@ -1,0 +1,1 @@
+C:\WebDevReact\obj\Debug\webdevreact.esproj.CoreCompileInputs.cache
