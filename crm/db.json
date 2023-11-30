@@ -1,0 +1,32 @@
+{
+  "customers": [
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "gender": "Female",
+      "address": "456 Alexandra Road S(119962)",
+      "phone": "97654321"
+    },
+    {
+      "name": "Marcus",
+      "gender": "Female",
+      "address": "Beijing",
+      "phone": "999",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Samantha",
+      "gender": "Female",
+      "address": "Shenzhen",
+      "phone": "999"
+    },
+    {
+      "name": "safsafda",
+      "gender": "Male",
+      "address": "asdaeafs",
+      "phone": "999",
+      "id": 5
+    }
+  ]
+}
