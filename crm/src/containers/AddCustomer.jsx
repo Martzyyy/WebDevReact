@@ -71,7 +71,7 @@ function ManageCustomer() {
                 </div>
                 <div className="row align-right">
                     <button
-                        classname="btn btn-blue">
+                        className="btn btn-blue">
                         Submit
                     </button>
                 </div>
