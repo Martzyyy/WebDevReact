@@ -21,11 +21,11 @@ function EditCustomer() {
             return false;
         }
         if (address.trim().length <= 0) {
-            alert("Please enter a name");
+            alert("Please enter an address");
             return false;
         }
         if (phone.trim().length <= 0) {
-            alert("Please enter a name");
+            alert("Please enter a phone number");
             return false;
         }
         return true;
@@ -93,7 +93,7 @@ function EditCustomer() {
                 </div>
                 <div className="row align-right">
                     <button
-                        className="btn btn-blue">
+                        classname="btn btn-blue">
                         Save Changes
                     </button>
                 </div>

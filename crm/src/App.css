@@ -58,14 +58,14 @@ table td {
     background -color: #ff0000;
 }
 
-    .btn
-    -red:hover,
-    .btn
-    -red:focus {
-        background -color: #ffffff;
-        color: #ff0000;
-        border: 1px solid #ff0000;
-    }
+.btn
+-red:hover,
+.btn
+-red:focus {
+    background -color: #ffffff;
+    color: #ff0000;
+    border: 1px solid #ff0000;
+}
 
 .btn
 -orange {
@@ -86,14 +86,14 @@ table td {
     background -color: #005eff;
 }
 
-    .btn
-    -blue:hover,
-    .btn
-    -blue:focus {
-        background-color: #ffffff;
-        color: #005eff;
-        border: 1px solid #005eff;
-    }
+.btn
+-blue:hover,
+.btn
+-blue:focus {
+    background-color: #ffffff;
+    color: #005eff;
+    border: 1px solid #005eff;
+}
 
 .form
 -container {
