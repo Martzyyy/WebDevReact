@@ -69,7 +69,7 @@ function EditCustomer() {
     }
 
     return (
-        <div className="form-container">
+        <div>
             <form onSubmit={handleEditAction}>
                 <div className="row align-right">
 

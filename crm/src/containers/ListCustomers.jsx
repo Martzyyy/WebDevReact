@@ -56,7 +56,7 @@ function ListCustomers() {
     });
 
     return (
-        <div>
+        <div className="form-container">
             <table>
                 <thead>
                     <tr>

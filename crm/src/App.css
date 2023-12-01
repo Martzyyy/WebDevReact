@@ -3,9 +3,8 @@
     padding: 50px 0;
 }
 
-.content
--wrapper {
-    margin -left: 250px;
+.content-wrapper {
+    margin-left: 250px;
     padding: 50px 10px;
 }
 
@@ -18,16 +17,17 @@ table {
     table -layout: fixed;
 }
 
-    table tr {
-        background -color: rgb (241, 241, 241);
-        border: 1px solid #ddd;
-    }
+table tr {
+    background -color: rgb (241, 241, 241);
+    border: 1px solid #ddd;
+}
 
-    table th,
-    table td {
-        padding: 10px;
-        text-align: center;
-    }
+table th,
+table td {
+    padding: 10px;
+    text-align: center;
+}
+
 /* https://getcssscan.com/css-buttons
 -examples */
 .btn {
@@ -53,47 +53,47 @@ table {
     -webkit -user-select: none;
 }
 
-    .btn
-    -red {
-        background -color: #ff0000;
-    }
-
-        .btn
-        -red:hover,
-        .btn
-        -red:focus {
-            background -color: #ffffff;
-            color: #ff0000;
-            border: 1px solid #ff0000;
-        }
+.btn
+-red {
+    background -color: #ff0000;
+}
 
     .btn
-    -orange {
-        background -color: #ff5e00;
+    -red:hover,
+    .btn
+    -red:focus {
+        background -color: #ffffff;
+        color: #ff0000;
+        border: 1px solid #ff0000;
     }
 
-        .btn
-        -orange:hover,
-        .btn
-        -orange:focus {
-            background -color: #ffffff;
-            color: #ff5e00;
-            border: 1px solid #ff5e00;
-        }
+.btn
+-orange {
+    background -color: #ff5e00;
+}
+
+.btn
+-orange:hover,
+.btn
+-orange:focus {
+    background -color: #ffffff;
+    color: #ff5e00;
+    border: 1px solid #ff5e00;
+}
+
+.btn
+-blue {
+    background -color: #005eff;
+}
 
     .btn
-    -blue {
-        background -color: #005eff;
+    -blue:hover,
+    .btn
+    -blue:focus {
+        background -color: #ffffff;
+        color: #005eff;
+        border: 1px solid #005eff;
     }
-
-        .btn
-        -blue:hover,
-        .btn
-        -blue:focus {
-            background -color: #ffffff;
-            color: #005eff;
-            border: 1px solid #005eff;
-        }
 
 .form
 -container {
@@ -123,11 +123,11 @@ select {
     padding: 5px 0px;
 }
 
-    .row:after {
-        content: "";
-        display: table;
-        clear: both;
-    }
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
 
 .align-right {
     text-align: right;

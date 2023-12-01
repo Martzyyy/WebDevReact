@@ -9,7 +9,9 @@ import EditCustomer from "./containers/EditCustomer";
 function App() {
     return (
         <div>
-            <Sidebar />
+            <div>
+                <Sidebar/>
+            </div>
             <div className="content-wrapper">
                 <Routes>
                     <Route path="/" element={<Home/>} />
