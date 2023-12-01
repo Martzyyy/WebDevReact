@@ -93,7 +93,7 @@ function EditCustomer() {
                 </div>
                 <div className="row align-right">
                     <button
-                        classname="btn btn-blue">
+                        className="btn btn-blue">
                         Save Changes
                     </button>
                 </div>

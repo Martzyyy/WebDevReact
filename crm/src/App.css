@@ -10,11 +10,11 @@
 
 table {
     border: 1px solid #ccc;
-    border -collapse: collapse;
+    border-collapse: collapse;
     margin: 0;
     padding: 0;
     width: 100%;
-    table -layout: fixed;
+    table-layout: fixed;
 }
 
 table tr {
@@ -31,16 +31,16 @@ table td {
 /* https://getcssscan.com/css-buttons
 -examples */
 .btn {
-    border -radius: 8px;
+    border-radius: 8px;
     border-style: none;
-    box -sizing: border -box;
+    box-sizing: border-box;
     color: #ffffff;
     cursor: pointer;
     display: inline -block;
     font-size: 14px;
-    font -weight: 500;
+    font-weight: 500;
     height: 40px;
-    line -height: 20px;
+    line-height: 20px;
     list-style: none;
     margin: 0;
     outline: none;
@@ -50,7 +50,7 @@ table td {
     text-decoration: none;
     vertical-align: baseline;
     user-select: none;
-    -webkit -user-select: none;
+    -webkit-user-select: none;
 }
 
 .btn
@@ -76,7 +76,7 @@ table td {
 -orange:hover,
 .btn
 -orange:focus {
-    background -color: #ffffff;
+    background-color: #ffffff;
     color: #ff5e00;
     border: 1px solid #ff5e00;
 }
@@ -90,7 +90,7 @@ table td {
     -blue:hover,
     .btn
     -blue:focus {
-        background -color: #ffffff;
+        background-color: #ffffff;
         color: #005eff;
         border: 1px solid #005eff;
     }
@@ -98,7 +98,7 @@ table td {
 .form
 -container {
     padding: 20px;
-    border -radius: 5px;
+    border-radius: 5px;
     background-color: rgb(241, 241, 241);
     font-size: 20px;
 }
